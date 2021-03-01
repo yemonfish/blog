@@ -17,7 +17,7 @@
     "echarts": "^4.8.0",
     "element-ui": "^2.13.2",
     "highlight.js": "^10.1.2",
-    "three": "^0.119.1",
+    "three": "^0.125.0",
     "tween": "^0.9.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
